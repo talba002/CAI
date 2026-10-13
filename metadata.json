@@ -1,0 +1,6 @@
+{
+  "name": "Yorùbá CAI",
+  "description": "Basic Science in Yorùbá - Interactive Computer-Assisted Instruction platform for primary school pupils with lessons, quizzes, simulations, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
